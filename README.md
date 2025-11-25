@@ -19,14 +19,6 @@ Double click on the `.ova` file and start the challenge.
 
 The flag is hidden deep within the system. You'll need to identify vulnerabilities, exploit them, and extract the flag.
 
-## 🛠️ Tools Required
-
-- `wpscan` - WordPress vulnerability scanner
-- `searchsploit` - Exploit database search
-- `curl` - HTTP tool
-- `netcat` - Network utility
-- `exiftool` - Metadata extraction
-
 ## ⚠️ Security Notice
 
 This VM contains intentional vulnerabilities for **educational purposes only**.
